@@ -13,5 +13,5 @@ describe('Test Framework', function () {
     });
     it('should have the should library installed and running for fluent testing', function () {
         true.should.eql(true);
-    })
+    });
 });
